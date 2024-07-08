@@ -1,0 +1,42 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+nav{
+    background-color: aquamarine;
+    color: black;
+    padding: 20px;
+}
+li,h1,ul{
+    display: inline;
+}
+ul{
+    margin-left: 60%;
+}
+
+li{
+    color: grey;
+    
+}
+li:hover{
+    cursor: pointer;
+    color:black;
+}
+input{
+    width: 60%;
+    
+    padding: 25px;
+}
+.search{
+    padding: 39px;
+    text-align: center;
+}
+.box{
+    background-color: black;
+    
+    display: inline;
+    
+}
+img{
+    
+}
