@@ -18,7 +18,7 @@ li{
     color: grey;
     
 }
-li:hover{gap: ;
+li:hover{gap: 
     cursor: pointer;
     color:black;
 }
@@ -35,8 +35,5 @@ input{
     background-color: black;
     
     display: inline;
-    
-}
-img{
     
 }
