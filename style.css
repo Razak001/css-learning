@@ -18,7 +18,7 @@ li{
     color: grey;
     
 }
-li:hover{gap: 
+li:hover{
     cursor: pointer;
     color:black;
 }
